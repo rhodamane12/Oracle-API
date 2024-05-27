@@ -15,7 +15,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Basic dmVua2F0YS5hbm5hcGFyZWRkeUBzdW5wb3dlci5jb20udGVzdDpNYW5pQDc4Ng=="
+								"value": ""
 							}
 						],
 						"body": {
@@ -50,7 +50,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Basic dmVua2F0YS5hbm5hcGFyZWRkeUBzdW5wb3dlci5jb20udGVzdDpNYW5pQDc4Ng=="
+								"value": ""
 							}
 						],
 						"body": {
@@ -85,7 +85,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Basic dmVua2F0YS5hbm5hcGFyZWRkeUBzdW5wb3dlci5jb20uZGV2Ok1hbmlANzg2"
+								"value": ""
 							},
 							{
 								"key": "Content-Type",
@@ -324,7 +324,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Basic dmVua2F0YS5hbm5hcGFyZWRkeUBzdW5wb3dlci5jb20ucHJvZDpIYW5zaHVAMTQz"
+						"value": ""
 					}
 				],
 				"url": {
@@ -380,7 +380,7 @@
 		"basic": [
 			{
 				"key": "password",
-				"value": "TestMypr0j",
+				"value": "",
 				"type": "string"
 			},
 			{
